@@ -1,7 +1,12 @@
-# SimilarSentenceScore 
+# SimilarSentenceScore
+[BETA]
 Similarity calculation with translation memory
 
-## DESCRIPTION 
+## Description 
 Calculate similarity from TM (TMX) and translation source text (TMX). Similarity is based on Trigram.  
 **NOTE**  
 The file format of the translation source text is also TMX.
+
+## Requirements  
+- Perl5.26 or above
+- Windows

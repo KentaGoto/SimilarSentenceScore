@@ -1,5 +1,4 @@
 # SimilarSentenceScore
-[BETA]
 Similarity calculation with translation memory
 
 ## Description 

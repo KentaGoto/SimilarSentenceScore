@@ -9,3 +9,6 @@ The file format of the translation source text is also TMX.
 ## Requirements  
 - Perl5.26 or above
 - Windows
+
+## License
+MIT

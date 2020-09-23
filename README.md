@@ -12,3 +12,6 @@ The file format of the translation source text is also TMX.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
